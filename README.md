@@ -9,7 +9,7 @@ You can download the latest executable for the Pong game from the [Releases page
 ## How to Play
 
 - The objective of the game is to score points by getting the ball past your opponent's paddle.
-- The game continues until a player reaches a set number of points (default: 10).
+- The game continues until a player reaches a set number of points (default: 6).
 
 ## Controls
 
