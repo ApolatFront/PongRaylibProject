@@ -4,7 +4,7 @@ A simple Pong game implemented in C++ using the raylib library. This project sho
 
 ## Download
 
-You can download the latest executable for the Pong game from the [Releases page]([https://github.com/yourusername/your-repo/releases/latest](https://github.com/ApolatFront/PongRaylibProject/releases/tag/Game)). This includes the executable file to play the game directly.
+You can download the latest executable for the Pong game from the [Releases page]([https://github.com/yourusername/your-repo/releases/latest](https://github.com/ApolatFront/PongRaylibProject/releases/tag/Game). This includes the executable file to play the game directly.
 
 ## How to Play
 
