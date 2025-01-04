@@ -9,7 +9,7 @@ Player vs CPU
 
 !!Missing or not working features!!:
 When ball hits the Paddle from above or below, the ball goes through the paddle (not working)
-Add scene for choosing game mode
+Add scene for choosing game mode (DONE)
 Add Field Size
 Add Difficulty 
 Leaderboard (MAYBE)
